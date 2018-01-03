@@ -1,0 +1,17 @@
+h1 {
+  color: #eea2ad;
+  font-size: 60px;
+}
+.flashy {
+  font-style: italic;
+  color: red;
+  font-size: 30px;
+}
+
+.best {
+  font-size: 45px;
+  color: white;
+}
+body {
+  background-color: #636059;
+}
